@@ -13,6 +13,10 @@ from IPython.display import display, Latex
 #test 1q13
 # usar pandas y numpy
 
+def nombre(3):
+    contador=1;
+# Correcto
+
 
 def Newton_algoritmo(F, J, x, eps):
     """
