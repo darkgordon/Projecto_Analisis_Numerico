@@ -15,7 +15,10 @@ from IPython.display import display, Latex
 
 def nombre(3):
     contador=1;
+<<<<<<< HEAD
 # Correcto
+=======
+>>>>>>> master
 
 
 def Newton_algoritmo(F, J, x, eps):
