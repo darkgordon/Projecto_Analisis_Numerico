@@ -17,10 +17,7 @@ def nombre(3):
     contador=1;
 <<<<<<< HEAD
 # Correcto
-# hayq eu  poner dash 
-# dfdfggd
-=======
->>>>>>> master
+>>>>>>>>> Temporary merge branch 2
 
 
 def Newton_algoritmo(F, J, x, eps):
