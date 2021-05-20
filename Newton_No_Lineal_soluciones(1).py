@@ -30,7 +30,7 @@ def Newton_algoritmo(F, J, x, eps):
         x = x + delta
         display(Latex('$$ Iteracion = '+ latex(simplify(contador_iteraciones)) + '$$'))
         display(Latex('$$ SolucionSistema = '+ latex(simplify(x)) + '$$'))
-        F_value = F(x)
+        F_value = F(x) #test
         F_norm = np.linalg.norm(F_value, ord=2)
         contador_iteraciones += 1
 
