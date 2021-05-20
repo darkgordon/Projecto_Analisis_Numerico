@@ -11,6 +11,7 @@ printing.init_printing(use_latex=true);
 from IPython.display import display, Latex 
 
 #test 1q13
+# usar pandas y numpy
 
 
 def Newton_algoritmo(F, J, x, eps):
